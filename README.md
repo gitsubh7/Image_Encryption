@@ -114,6 +114,3 @@ With the rise of sensitive digital imaging in healthcare, surveillance, and clou
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
